@@ -1,0 +1,30 @@
+{
+  "name": "plugins",
+  "version": "1.0.0",
+  "description": "瞎写一些babel转译插件的地方",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blankzust/plugins.git"
+  },
+  "keywords": [
+    "babel",
+    "plugins"
+  ],
+  "author": "blankzust",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blankzust/plugins/issues"
+  },
+  "homepage": "https://github.com/blankzust/plugins#readme",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.3",
+    "babel-plugin-tester": "^5.4.0",
+    "babylon": "^6.18.0",
+    "jest": "^23.3.0"
+  }
+}
